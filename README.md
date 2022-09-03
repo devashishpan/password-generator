@@ -1,7 +1,7 @@
 # password-generator
 
 
-
+<html>
 
     <head>
         <title>
@@ -57,3 +57,4 @@
             </form>
         </section>
     </body>
+</html>
