@@ -1,6 +1,8 @@
 # password-generator
 
-<html>
+
+
+
     <head>
         <title>
             Password Generator
@@ -55,4 +57,3 @@
             </form>
         </section>
     </body>
-</html>
