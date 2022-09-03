@@ -1,6 +1,16 @@
 # password-generator
 
-<div class="Title">
+<html>
+    <head>
+        <title>
+            Password Generator
+        </title>
+        <link rel="shortcut icon" type="image/png"  href="images/favicon.png">
+        <script type="text/javascript" src="password_generator.js"></script>
+        <link rel="stylesheet" type="text/css" href="password_generator.css">
+    </head>
+    <body>
+        <div class="Title">
             Password Generator
         </div>
         <section>
@@ -44,3 +54,5 @@
                 </div>
             </form>
         </section>
+    </body>
+</html>
